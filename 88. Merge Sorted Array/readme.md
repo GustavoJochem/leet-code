@@ -33,7 +33,7 @@ A solução utiliza uma abordagem de dois ponteiros para mesclar os arrays de tr
 
 ## Representação visual
 
-![Representação visual da solução](.\merge_sorted_arrays.gif)
+![Representação visual da solução](./merge_sorted_arrays.gif)
 
 ### Código
 
